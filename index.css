@@ -21,6 +21,16 @@ body {
   	z-index: 1000;
 }
 
+#resume {
+	font-family: Sora;
+	font-style: Medium;
+	font-weight: 500;
+	background-color: #d6b4fcCC;
+	border-radius: 10px;
+	color: #0A0A0A !important;
+	text-decoration: none;
+}
+
 #logo {
 	font-family: Sora;
 	font-style: Bold;
